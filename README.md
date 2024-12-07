@@ -1,4 +1,5 @@
 🌱 Green Zone
+
 Green Zone is a plant-based website designed to make shopping for plants seamless and enjoyable. The project focuses on delivering a user-friendly and responsive interface with functional features for an enhanced shopping experience.
 
 🛠️ Technologies Used
